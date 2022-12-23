@@ -1,3 +1,4 @@
+V0.1
 Pirmiausia susikūriau struktūrą, kuri turi kiekvieno studento duomenis(vardą,pavardę,namų darbų pažimius,egzamino pažimį, galutini balą skaičiuotą su vidurkiu/mediana.
 Main'e prašome įvesti studentų kiekį, kad žinotume kiek kartų reikės atlikti nuskaitymo funkciją.
 Nuskaitome studentų duomenis.
@@ -18,6 +19,6 @@ Galutinį balą, skaičiuotą su mediana.
 
 
 
-
+V1.0
 Apskaičiuojamas programos veikimo laikas:
 ![image](https://user-images.githubusercontent.com/113382247/209296593-994514c5-ee1d-4b65-ae0e-c46738504303.png)
