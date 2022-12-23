@@ -15,3 +15,9 @@ Studentų vardą;
 Pavardę;
 Galutinį balą, skaičiuotą su vidurkiu;
 Galutinį balą, skaičiuotą su mediana.
+
+
+
+
+Apskaičiuojamas programos veikimo laikas:
+![image](https://user-images.githubusercontent.com/113382247/209296593-994514c5-ee1d-4b65-ae0e-c46738504303.png)
