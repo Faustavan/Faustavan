@@ -21,3 +21,11 @@ Galutinį balą, skaičiuotą su mediana.
 
 Apskaičiuojamas programos veikimo laikas:
 ![image](https://user-images.githubusercontent.com/113382247/209296593-994514c5-ee1d-4b65-ae0e-c46738504303.png)
+
+
+
+V1.0:
+
+
+Bendro studentų konteinerio (vector ir list) skaidymas (rūšiavimas) panaudojant tik vieną naują konteinerį: "vargšiukai".
+Palyginima programa tarp veikimo naudojant du konteinerius ir tarp vieno.
