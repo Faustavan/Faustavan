@@ -20,6 +20,6 @@ Galutinį balą, skaičiuotą su mediana.
 
 
 V1.0
-Apskaičiuojamas programos veikimo laikas:
+Apskaičiuojamas programos veikimo laikas skirtingais veikimo būdais:
 ![image](https://user-images.githubusercontent.com/113382247/209299759-b92d51a2-9cb8-40b4-9d9e-14ee77d5a802.png)
 
