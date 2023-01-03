@@ -1,6 +1,7 @@
 Studento struktūra pakeista į klasę.
-Atliktas spartos palyginimas su V.1.0 versija
 
+
+![image](https://user-images.githubusercontent.com/113382247/210385380-7d5e35d7-23b7-4c62-ab79-97c7afe5635e.png)
 
 
 PROGRAMOS NAUDOJIMAS:
