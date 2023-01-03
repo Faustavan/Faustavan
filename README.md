@@ -30,3 +30,8 @@ Apskaičiuojamas programos veikimo laikas skirtingais veikimo būdais:
 
 Rezultatai rodo, kad nuskaitant ir išvedant duomenis tik su vienu konteineriu yra daug optimalesnis variantas. 
 
+PROGRAMOS NAUDOJIMAS:
+
+Pirmiausia atsisiųskite programą iš Realeses ir ją išarchyvuokite.
+Tada atsisiųskite jums patogią aplinką,palaikančią C++ (CodeBlocks, VisualStudio)
+Atsidarykite pateiktą programos kodą ir jį paleiskite.
