@@ -25,7 +25,8 @@ Apskaičiuojamas programos veikimo laikas:
 
 
 V1.0:
+Apskaičiuojamas programos veikimo laikas skirtingais veikimo būdais:
+![image](https://user-images.githubusercontent.com/113382247/209299759-b92d51a2-9cb8-40b4-9d9e-14ee77d5a802.png)
 
+Rezultatai rodo, kad nuskaitant ir išvedant duomenis tik su vienu konteineriu yra daug optimalesnis variantas. 
 
-Bendro studentų konteinerio (vector ir list) skaidymas (rūšiavimas) panaudojant tik vieną naują konteinerį: "vargšiukai".
-Palyginima programa tarp veikimo naudojant du konteinerius ir tarp vieno.
